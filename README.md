@@ -178,6 +178,7 @@
 - [Bringing Google Maps to Friendly Meals with Firebase AI Logic (Firebase Blog, jul/2026)](https://firebase.blog/posts/2026/07/bringing-google-maps-friendly-meals) — Estudo de caso oficial mostrando o Firebase AI Logic em um app real, publicado em julho de 2026.
 - [Eval-driven development: How we build better agent skills for Firebase (Firebase Blog, ago/2026)](https://firebase.blog/posts/2026/08/eval-driven-development-agent-skills) — Post oficial sobre como a própria equipe do Firebase avalia e melhora skills de agentes de IA, publicado em agosto de 2026.
 - [Triple-layer security for Firebase web apps (Firebase Blog, jul/2026)](https://firebase.blog/posts/2026/07/three-layer-security) — Guia oficial de boas práticas de segurança em camadas para apps web, publicado em julho de 2026.
+- [3 ways to optimize Firebase Remote Config fetch usage (Firebase Blog, ago/2026)](https://firebase.blog/posts/2026/08/optimize-remote-config-usage) — Post oficial com técnicas para reduzir custo e latência ao usar o Remote Config, publicado em agosto de 2026.
 - [Google for Developers Blog](https://developers.google.com/blog) — Blog oficial do Google para desenvolvedores, com conteúdo que cruza Firebase, Android e IA.
 - [dev.to — tag Firebase](https://dev.to/t/firebase) — Artigos da comunidade sobre Firebase, em inglês e com participação de autores brasileiros.
 - [TabNews](https://www.tabnews.com.br/) — Comunidade brasileira de conteúdo técnico, com discussões frequentes sobre Firebase e alternativas como Supabase.
